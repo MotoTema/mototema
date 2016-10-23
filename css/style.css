@@ -25,7 +25,7 @@ h3		{ font-size: 16px; color: #666; }
 
 /*шапка сайта*/
 #wrapper 		{ width:80%; min-width:800px; margin:0 auto;text-align: center;  }
-#header 		{ position:relative; display:block; width:100%; height:102px;  background:#FFF url(img/bg_header_2.gif) repeat-x; }
+#header 		{ position:relative; display:block; width:100%; height:102px;  background:#FFF url(../img/bg_header_2.gif) repeat-x; }
 #header .logo 	{ position:absolute; left:40px; top:0px; }
 #headern 	{ position:absolute; left:50px; top:60px; color:#FFF;}
 #header .moto1 	{ position:absolute; right:40px; top:10px; }
@@ -38,29 +38,29 @@ h3		{ font-size: 16px; color: #666; }
 
 
 /*навигация под шапкой*/
-#nav 			{ display:block;width:100%; min-width:800px; height:26px; margin:0; padding:0; list-style:none; text-align:center; background:#A13D3D url(img/bg_nav.gif) repeat-x; }
+#nav 			{ display:block;width:100%; min-width:800px; height:26px; margin:0; padding:0; list-style:none; text-align:center; background:#A13D3D url(../img/bg_nav.gif) repeat-x; }
 #nav li 		{ float:left; width:152px; }
 #nav li a 		{ text-decoration:none; display:block; padding:0; padding:0; height:1%; line-height:26px; color:#FFF; }
-#nav li a:hover { background:url(img/bg_nav_on.gif) no-repeat 50% 0; }
+#nav li a:hover { background:url(../img/bg_nav_on.gif) no-repeat 50% 0; }
 
 
 
 
 
 /*содержимое страницы*/
-#content { width:100%; min-width:800; padding:50px 0px; background:#FFF url(img/bg_content2.gif) repeat-x; text-align:left;  }
+#content { width:100%; min-width:800; padding:50px 0px; background:#FFF url(../img/bg_content2.gif) repeat-x; text-align:left;  }
 * html #content, * html #content #col_1 { height:543px; }
 
 
 
 
 /*левая часть, меню (навигация)*/
-#col_1 { width:20%; float:left; min-height:543px; background:url(img/bg_left.gif) no-repeat 100% 50%; }
+#col_1 { width:20%; float:left; min-height:543px; background:url(../img/bg_left.gif) no-repeat 100% 50%; }
 #col_1 h2 { color:#999999; font-size:14px; font-weight:normal; }
 #subnav, #subnav ul { margin:0; padding:0; list-style:none; }
 #subnav li { }
-#subnav li a { display:block; padding:5px 10px 5px 10px; height:1%; background:url(img/bg_subnav.gif) no-repeat 100% 100%; text-decoration:none }
-#subnav li a:hover { background:#E9D1D1 url(img/bg_left_nav_on.gif) no-repeat 100% 0; text-decoration:none; }
+#subnav li a { display:block; padding:5px 10px 5px 10px; height:1%; background:url(../img/bg_subnav.gif) no-repeat 100% 100%; text-decoration:none }
+#subnav li a:hover { background:#E9D1D1 url(../img/bg_left_nav_on.gif) no-repeat 100% 0; text-decoration:none; }
 
 
 
